@@ -7,7 +7,7 @@ Muhammad Hilmi Ramadhan | 05311940000044
 Sri Puspita Dewi | 05111940000045
 
 ## List of Contents :
-- [Soa 1](#Cara-Pengerjaan)
+- [Soal 1](#Cara-Pengerjaan)
 	- [1a](#1A)
 	- [1b](#1B)
 	- [1c](#1C)
