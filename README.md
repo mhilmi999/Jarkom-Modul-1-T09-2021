@@ -14,12 +14,16 @@ Sri Puspita Dewi | 05111940000045
 	- [1d](#1D)
 	- [1e](#1E)
 	- [1f](#1F)
+
+
 - [Soa 2](#Cara-Pengerjaan)
 	- [2a](#2A)
 	- [2b](#2B)
 	- [2c](#2C)
 	- [2d](#2D)
 	- [2e](#2E)
+
+
 - [Soal 3](#Cara-Pengerjaan)
 	- [3a](#3A)
 	- [3b](#3B)
