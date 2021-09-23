@@ -256,4 +256,5 @@ Pertama kami melakukan **ipconfig** untuk mencari ip sendiri **(192.168.246.87)*
 
 Lalu mengetik **src host [ip sendiri]**, kami menggunakan **ip 192.168.246.87**
 ![Foto](./img/15b.png)
+
 ---
