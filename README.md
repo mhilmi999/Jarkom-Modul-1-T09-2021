@@ -40,10 +40,10 @@ Sri Puspita Dewi | 05111940000045
 
 
 ## Soal 1 :
----
+
 Sebutkan webserver yang digunakan pada `"ichimarumaru.tech"`!
 ## Jawaban Soal 1 : 
----
+
 Webserver yang digunakan adalah **nginx/1.18.0 (Ubuntu)**. Kami menggunakan display filter **http** saat mengakses `"ichimarumaru.tech"` untuk mendapatkan webserver yang digunakan.
 
 ![Foto](./img/1.png)
