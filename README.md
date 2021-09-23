@@ -193,6 +193,8 @@ Filter sehingga `wireshark hanya mengambil` paket yang berasal dari `port 80`!
 ---
 Kami menggunakan `capture filter` dengan sintaks **src port 80**
 ![Foto](./img/11.png)
+
+
 Selanjutnya akan menampilkan paket-paket yang berasal dari `port 80`
 ![Foto](./img/11b.png)
 
@@ -236,8 +238,10 @@ Filter sehingga wireshark hanya mengambil paket yang tujuannya ke kemenag.go.id!
 Melakukan `ping ke kemenag.go.id` untuk mencari ipnya 
 ![Foto](./img/14.png)
 
+
 Atau buka wireshark langsun lalu  mengetik `dst host [Nama web]`, Disini kami mengetik `dst host kemenag.go.id`
 ![Foto](./img/14b.png)
+
 
 Lalu akan muncul paket yang tujuannya ke kemenang.go.id
 ![Foto](./img/14c.png)
@@ -253,6 +257,8 @@ Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
 ---
 Pertama kami melakukan `ipconfig` untuk mencari ip sendiri `(192.168.246.87)`
 ![Foto](./img/15.png)
+
+
 
 Lalu mengetik `src host [ip sendiri]`, kami menggunakan `ip 192.168.246.87`
 ![Foto](./img/15b.png)
