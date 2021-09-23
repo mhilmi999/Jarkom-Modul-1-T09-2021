@@ -229,7 +229,7 @@ Selanjutnya maka akan **muncul paket yang menuju port 443**
 
 ## Soal 14 :
 ---
-
+Filter sehingga wireshark hanya mengambil paket yang tujuannya ke kemenag.go.id!
 
 ## Jawaban Soal 14 : 
 ---
@@ -239,7 +239,7 @@ Selanjutnya maka akan **muncul paket yang menuju port 443**
 
 ## Soal 15 :
 ---
-
+Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
 
 ## Jawaban Soal 15 : 
 ---
