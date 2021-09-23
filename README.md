@@ -195,6 +195,10 @@ Kami menggunakan `capture filter` dengan sintaks **src port 80**
 ![Foto](./img/11.png)
 
 
+
+
+
+
 Selanjutnya akan menampilkan paket-paket yang berasal dari `port 80`
 ![Foto](./img/11b.png)
 
@@ -210,8 +214,10 @@ Kami memulai dengan **mengakses filezilla client dan server (melalui XAMPP)** , 
 ![Foto](./img/12b.jpeg)
 ![Foto](./img/12c.png)
 
-Sehingga akan muncul hasil dari capture filter tersebut
 
+
+
+Sehingga akan muncul hasil dari capture filter tersebut
 ![Foto](./img/12d.png)
 
 ---
@@ -223,6 +229,9 @@ Filter sehingga `wireshark hanya menampilkan` paket yang `menuju port 443`!
 ---
 Pertama kami  mengetik **dst port [dituju], dst port 443**, di wireshark tepatnya pada `capture filter`
 ![Foto](./img/13.png)
+
+
+
 
 Selanjutnya maka akan **muncul paket yang menuju port 443**
 ![Foto](./img/13b.png)
@@ -239,8 +248,13 @@ Melakukan `ping ke kemenag.go.id` untuk mencari ipnya
 ![Foto](./img/14.png)
 
 
+
+
 Atau buka wireshark langsun lalu  mengetik `dst host [Nama web]`, Disini kami mengetik `dst host kemenag.go.id`
 ![Foto](./img/14b.png)
+
+
+
 
 
 Lalu akan muncul paket yang tujuannya ke kemenang.go.id
