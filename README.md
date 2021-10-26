@@ -39,7 +39,7 @@ Sri Puspita Dewi | 05111940000045
 	- [Jawaban](#jawaban-soal-15)
 
 
-## Soal 1 :
+## Soal 1
 
 Sebutkan webserver yang digunakan pada `"ichimarumaru.tech"`!
 ## Jawaban Soal 1 : 
